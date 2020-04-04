@@ -1,5 +1,5 @@
 # Covid-19 Aux
-Auxiliary data sources for UQ covid19 modelling group.
+Auxiliary data sources for covid19 modelling group.
 
 ### Link dump: all links examined / unexamined
 #### Genomic
