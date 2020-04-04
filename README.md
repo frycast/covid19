@@ -25,3 +25,7 @@ Auxiliary data sources for UQ covid19 modelling group.
 * [Kaggle challenges home](https://www.kaggle.com/covid19)
 * [Kaggle best community contributions](https://www.kaggle.com/covid-19-contributions)
 * [USA 'CORD-19' Kaggle challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
+
+#### Creepy Google powers
+* [Related news article, The Verge](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy)
+* [New Insights into Human Mobility, Google AI Blog](https://ai.googleblog.com/2019/11/new-insights-into-human-mobility-with.html?m=1)
