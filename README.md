@@ -1,6 +1,12 @@
 # Covid-19 Aux
 Auxiliary data sources for UQ covid19 modelling group.
 
+### What is useful here so far?
+
+* The script `weather.R`. Given GPS target coordinates and year of interest, this script retrieves daily summary weather data from the nearest weather station, among NOAA GSOD stations, for that year.
+
+
+
 ### Link dump: all links examined / unexamined
 #### Genomic
 * [Nextstrain: Real time tracking of genome evolution](https://nextstrain.org/)
