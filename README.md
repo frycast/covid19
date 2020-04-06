@@ -1,5 +1,5 @@
 # Covid-19 Aux
-Auxiliary data sources for UQ covid19 modelling group.
+Auxiliary data sources for covid-19 modelling group.
 
 ### What is useful here so far?
 
