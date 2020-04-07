@@ -1,13 +1,24 @@
 # Covid-19 Aux
 Auxiliary data sources for covid-19 modelling group.
 
+### What do we aim to provide?
+
+Two data tables, one dynamic and one static. They should contain four general feature types:
+
+* Daily or weekly weather summaries near hospitals in the study (dynamic)
+* A measure of congestion in each hospital in the study (dynamic)
+* Comorbidities, smoking and age distribution in the locale served by each hospital (static)
+* A measure of the health system quality and access to healthcare in the locale served by each hospital (static)
+
+All features must have a documented reputable source. Scripts to update dynamic data should be provided, preferably in R or Python.
+
 ### What is useful here so far?
 
 * The script `weather.R`. Given GPS target coordinates and year of interest, this script retrieves daily summary weather data from the nearest weather station, among NOAA GSOD stations, for that year.
 
 
 
-### Link dump: all links examined / unexamined
+### Link dump of potential data sources
 #### Genomic
 * [Nextstrain: Real time tracking of genome evolution](https://nextstrain.org/)
 * [DeepMind computational predictions of protein structures](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)
